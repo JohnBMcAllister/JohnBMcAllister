@@ -1,6 +1,20 @@
-# 💫 About Me:
-I am a student majoring in Computer Science with a minor in Information Systems Management at Auburn University.<br>I am currently learning C++ and SQL.<br>I am a co-op student at Campus Web Solution, where I contribute to building the front-end and back-end of web applications<br>Ask me about: Web Development: Whether it's front-end or back-end development. I'm happy to give my opinion which I enjoy more.<br>Ask me about Database Design: I have been learning SQL recently and really want to learn more about database architecture and designs.<br>Fun Fact: I listen to all genres of music, but my favorite bands include: Led Zeppelin, Rush, Murph Murphy, and MBL Worship.<br>
+# About Me 💫
 
+I am a student majoring in Computer Science with a minor in Information Systems Management at Auburn University. Currently, I am learning C++ and SQL. I am also a co-op student at Campus Web Solution, where I contribute to building the front-end and back-end of web applications.
+
+## Experience 🚀
+
+### Co-op Position at Campus Web Solution
+
+- **Duration:** Spring, 2024
+- **Description:** At Campus Web Solution, I am involved in building both the front-end and back-end of web applications. I work with technologies such as Visual Studio, SQL Server Management Studio, and Jira to create user-friendly and efficient solutions.
+
+## Ask Me About 💬
+
+- **Web Development:** Whether it's front-end or back-end development, I'm happy to discuss anything related to building modern web applications.
+- **Database Design:** I have been learning SQL recently and am eager to delve deeper into database architecture and designs.
+- **Preferences in Development:** Want to know whether I enjoy front-end or back-end development more? Ask away!
+- **Music Tastes:** I listen to all genres of music, but my favorite bands include: Led Zeppelin, Rush, Murph Murphy, and MBL Worship.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnb2221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jb-mcallister) 
