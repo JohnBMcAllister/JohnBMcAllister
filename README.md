@@ -25,7 +25,7 @@ I am a student majoring in Computer Science with a minor in Information Systems 
 ![](https://github-readme-stats.vercel.app/api?username=JohnBMcAllister&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnBMcAllister&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBMcAllister&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# LeetCode Stats
+# 🧩 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JohnBMcAllister)
 
 ### ✍️ Random Dev Quote
