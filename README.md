@@ -6,7 +6,7 @@ I am a student majoring in Computer Science with a minor in Information Systems 
 
 ### Co-op Position at Campus Web Solution
 
-- **Duration:** Spring 2024, Fall 2024
+- **Duration:** Spring 2024, Fall 2024, Summer 2025
 - **Description:** At Campus Web Solution, I am involved in building both the front-end and back-end of web applications. I work with technologies such as Visual Studio, SQL Server Management Studio, and Jira to create user-friendly and efficient solutions.
 
 ## 💬 Ask Me About 
