@@ -27,7 +27,7 @@ I am a student majoring in Computer Science with a minor in Information Systems 
 # 🧩 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JohnBMcAllister?ext=activity)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
