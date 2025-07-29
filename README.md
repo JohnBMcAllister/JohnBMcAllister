@@ -14,7 +14,6 @@ I am a student majoring in Computer Science with a minor in Information Systems 
 - **Web Development:** Whether it's front-end or back-end development, I'm happy to discuss anything related to building modern web applications.
 - **Database Design:** I have been learning SQL recently and am eager to delve deeper into database architecture and designs.
 - **Preferences in Development:** Want to know whether I enjoy front-end or back-end development more? Ask away!
-- **Music Tastes:** I listen to all genres of music, but my favorite bands include: Led Zeppelin, Rush, Murph Murphy, and MBL Worship.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnb2221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jb-mcallister) 
